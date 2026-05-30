@@ -1,6 +1,6 @@
 # Complaint Auto-Routing System
 
-**Assessment Submission — IVTEX Corporate Solutions Pvt. Ltd.**
+**Assessment Submission**
 
 An offline, ML-driven complaint processing system that takes complaint text and automatically routes it to the right officer, predicts priority, estimates resolution time, and finds similar past complaints — all from complaint content alone, with no manual routing hints.
 
