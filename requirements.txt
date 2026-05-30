@@ -4,6 +4,6 @@ numpy
 pandas
 # ---- multimodal (optional but recommended) ----
 SpeechRecognition      # audio transcription
-# pocketsphinx         # offline ASR (heavy; install separately if needed)
+# pocketsphinx         # offline ASR (heavy; install separately needed)
 moviepy                # video → audio extraction
 deep-translator        # multilingual support (uses Google Translate API)
