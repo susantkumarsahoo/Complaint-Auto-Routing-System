@@ -306,29 +306,39 @@ moviepy             # video audio extraction
 ```
 
 
-## User input dart
+## User Input Dart (example to test the app)
 
 1.  Electricity — OFF003 Anil Patro
+
+```
 The transformer near our colony has been sparking for 2 days and there is no electricity at all. It is extremely dangerous and children are playing near it. Please send someone immediately.
-
+```
 2.  Sanitation — OFF002 Priya Sharma
+
+```
 Garbage has not been collected from our street for 12 days. The waste is overflowing onto the road, there is unbearable smell, and rats are visible everywhere. Many residents are falling sick.
-
+```
 3.  Water Supply — OFF004 Sneha Mishra
+```
 Water supply has been completely cut off in our entire sector for 4 days. The water that does come is brown and smells rotten. Several children and elderly people have fallen sick after drinking it.
-
+```
 4.  Infrastructure — OFF001 Rajesh Kumar
+```
 There is a massive pothole on the main road that has already caused 3 bike accidents this week. A manhole cover nearby is also missing. The road is completely unsafe especially at night.
-
+```
 5.  Public Safety — OFF005 Deepak Nayak
+```
 A pack of stray dogs has been attacking schoolchildren every morning near the gate for one week. Three children have been bitten and parents are afraid to send their kids to school.
-
+```
 6.  Health — OFF006 Kavita Das
+```
 There is a serious dengue outbreak in our ward with over 20 cases reported this week. Mosquitoes are breeding in stagnant water everywhere and the health department has taken no action at all.
-
+```
 7.  Transport — OFF007 Suresh Behera
+```
 Bus route 45 has been completely suspended for 3 weeks without any notice. Hundreds of daily commuters including students and office workers have no transport option available.
-
+```
 8.  Environment — OFF008 Meena Rath
-An illegal factory is dumping chemical waste directly into the river every night. The water is turning black and residents near the river are experiencing severe breathing problems and skin rashes.
-
+```
+An illegal factory is dumping chemical waste directly into the river every night. The water is turning black and residents near the river are experiencing severe breathing problems and skin rashes.
+```
