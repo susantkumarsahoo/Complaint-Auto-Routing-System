@@ -10,17 +10,17 @@ An offline, ML-driven complaint processing system that takes complaint text and 
 
 | Feature | Status | Details |
 |---|---|---|
-| Text input | ✅ Fully implemented & tested | Complete ML pipeline end to end |
-| Officer routing | ✅ Fully working | Logistic Regression, 8 departments |
-| Priority prediction | ✅ Fully working | High / Medium / Low with confidence |
-| ETA prediction | ✅ Fully working | Ridge Regression, output in days |
-| Similarity search | ✅ Fully working | Cosine similarity over TF-IDF corpus |
-| Web UI | ✅ Fully working | Flask app at localhost:5000 |
-| CLI mode | ✅ Fully working | `python src/app.py --mode cli` |
-| Multilingual (English) | ✅ Always works | No translation needed |
-| Multilingual (other languages) | ⚠️ Works with internet | Uses deep-translator → Google Translate → English → ML pipeline. Degrades gracefully if offline |
-| Audio input | 🔲 Architecturally designed | Code written for SpeechRecognition + pocketsphinx pipeline. Not live-tested. Requires heavy ASR setup |
-| Video input | 🔲 Architecturally designed | Code written for moviepy audio extraction + ASR. Not live-tested |
+| Text input |  Fully implemented & tested | Complete ML pipeline end to end |
+| Officer routing |  Fully working | Logistic Regression, 8 departments |
+| Priority prediction |  Fully working | High / Medium / Low with confidence |
+| ETA prediction |  Fully working | Ridge Regression, output in days |
+| Similarity search |  Fully working | Cosine similarity over TF-IDF corpus |
+| Web UI |  Fully working | Flask app at localhost:5000 |
+| CLI mode |  Fully working | `python src/app.py --mode cli` |
+| Multilingual (English) |  Always works | No translation needed |
+| Multilingual (other languages) |  Works with internet | Uses deep-translator → Google Translate → English → ML pipeline. Degrades gracefully if offline |
+| Audio input |  Architecturally designed | Code written for SpeechRecognition + pocketsphinx pipeline. Not live-tested. Requires heavy ASR setup |
+| Video input |  Architecturally designed | Code written for moviepy audio extraction + ASR. Not live-tested |
 
 > **Note on audio/video:** The assignment states *"Text-only support can be treated as the minimum baseline, but the design should clearly account for multimodal extension."* The multimodal pipeline is fully designed and coded — the inference.py file shows exactly how audio and video would feed into the same ML pipeline via transcription. The architecture supports this extension without any model changes.
 
@@ -226,9 +226,9 @@ Per-class breakdown (Priority):
 ## Multilingual Support
 
 ```
-English text        → directly into ML pipeline        ✅ offline
-Hindi / Odia / etc  → deep-translator → English → ML   ✅ needs internet
-Any language        → if offline, passes as-is to ML   ⚠️ accuracy drops
+English text        → directly into ML pipeline         offline
+Hindi / Odia / etc  → deep-translator → English → ML    needs internet
+Any language        → if offline, passes as-is to ML    accuracy drops
 ```
 
 For a fully offline multilingual system, replace `deep-translator` with `argos-translate`:
