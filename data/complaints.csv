@@ -1,0 +1,401 @@
+id,text,officer_id,priority,eta_days
+CMP0001,Please look into this urgently. Illegal dumping of industrial waste in the river This is urgent.,OFF008,High,2
+CMP0002,This is affecting many families. Mosquito breeding in stagnant water near park Residents are very unhappy.,OFF006,Medium,3
+CMP0003,Kindly take immediate action. Smoke from unauthorized factory affecting lungs Residents are very unhappy.,OFF008,High,1
+CMP0004,This is affecting many families. There is a dengue outbreak in our ward Please resolve soon.,OFF006,High,1
+CMP0005,This is affecting many families. Expired medicines found at government hospital Many complaints already filed.,OFF006,High,4
+CMP0006,Kindly take immediate action. Mosquito breeding in stagnant water near park Many complaints already filed.,OFF006,Medium,5
+CMP0007,This is affecting many families. The road in front of my house has a large pothole causing accidents,OFF001,High,4
+CMP0008,This is affecting many families. Public toilet near bus stand is extremely dirty Please resolve soon.,OFF002,Medium,4
+CMP0009,Please look into this urgently. Bus number 45 has not been running for two weeks,OFF007,Medium,6
+CMP0010,We have complained before but no action. Trees fallen on road after storm blocking traffic Many complaints already filed.,OFF001,High,2
+CMP0011,Garbage has not been collected from our colony for 10 days,OFF002,High,1
+CMP0012,Please look into this urgently. Dead animals lying on road not removed Many complaints already filed.,OFF002,High,2
+CMP0013,We have complained before but no action. No electricity for 2 days after last night storm Many complaints already filed.,OFF003,High,2
+CMP0014,Please look into this urgently. Stray dogs are attacking people near the school Please resolve soon.,OFF005,High,2
+CMP0015,This is affecting many families. There is a dengue outbreak in our ward Residents are very unhappy.,OFF006,High,3
+CMP0016,Kindly take immediate action. Public toilet near bus stand is extremely dirty This is urgent.,OFF002,Medium,3
+CMP0017,We have complained before but no action. Electricity bill is much higher than usage Please resolve soon.,OFF003,Low,15
+CMP0018,This problem exists since many months. Stray dogs are attacking people near the school Please resolve soon.,OFF005,High,1
+CMP0019,Kindly take immediate action. Sewage water overflowing on the main road,OFF002,High,3
+CMP0020,This is affecting many families. Expired medicines found at government hospital This is urgent.,OFF006,High,1
+CMP0021,Please look into this urgently. Mosquito breeding in stagnant water near park This is urgent.,OFF006,Medium,6
+CMP0022,Please look into this urgently. Public toilet near bus stand is extremely dirty Please resolve soon.,OFF002,Medium,4
+CMP0023,Auto drivers are overcharging passengers,OFF007,Low,12
+CMP0024,This is affecting many families. Construction dust causing breathing problems This is urgent.,OFF008,High,3
+CMP0025,Manhole cover missing on the street is dangerous Many complaints already filed.,OFF001,High,2
+CMP0026,Kindly take immediate action. Smoke from unauthorized factory affecting lungs Many complaints already filed.,OFF008,High,4
+CMP0027,This is affecting many families. Electricity bill is much higher than usage Please resolve soon.,OFF003,Low,16
+CMP0028,Please look into this urgently. There is a dengue outbreak in our ward Residents are very unhappy.,OFF006,High,1
+CMP0029,Sewage water overflowing on the main road,OFF002,High,1
+CMP0030,Kindly take immediate action. Dead animals lying on road not removed Many complaints already filed.,OFF002,High,3
+CMP0031,We have complained before but no action. Children are falling sick due to contaminated water Many complaints already filed.,OFF004,High,1
+CMP0032,Illegal dumping of industrial waste in the river Many complaints already filed.,OFF008,High,3
+CMP0033,Please look into this urgently. Traffic signals not working at main crossing This is urgent.,OFF007,High,4
+CMP0034,Kindly take immediate action. Sewage water overflowing on the main road Residents are very unhappy.,OFF002,High,3
+CMP0035,This is affecting many families. Garbage vehicle not coming to our street anymore Many complaints already filed.,OFF002,Medium,3
+CMP0036,Suspicious activity near abandoned building Many complaints already filed.,OFF005,Medium,3
+CMP0037,We have complained before but no action. Power cuts lasting 8 hours daily in our area Please resolve soon.,OFF003,High,2
+CMP0038,We have complained before but no action. Potholes on highway causing vehicle damage,OFF001,High,3
+CMP0039,We have complained before but no action. Illegal dumping of industrial waste in the river This is urgent.,OFF008,High,2
+CMP0040,This is affecting many families. Water supply is disrupted in sector 5 since 3 days Many complaints already filed.,OFF004,High,1
+CMP0041,There is a dengue outbreak in our ward,OFF006,High,1
+CMP0042,This is affecting many families. Encroachment on public footpath by shops Please resolve soon.,OFF005,Medium,9
+CMP0043,This is affecting many families. Expired medicines found at government hospital This is urgent.,OFF006,High,4
+CMP0044,This problem exists since many months. Auto drivers are overcharging passengers Please resolve soon.,OFF007,Low,11
+CMP0045,Water tank on rooftop is cracked and leaking This is urgent.,OFF004,Medium,7
+CMP0046,Kindly take immediate action. Children are falling sick due to contaminated water Residents are very unhappy.,OFF004,High,1
+CMP0047,Please look into this urgently. Mosquito breeding in stagnant water near park This is urgent.,OFF006,Medium,3
+CMP0048,This problem exists since many months. Smoke from unauthorized factory affecting lungs Please resolve soon.,OFF008,High,2
+CMP0049,Please look into this urgently. The road in front of my house has a large pothole causing accidents Residents are very unhappy.,OFF001,High,3
+CMP0050,Please look into this urgently. Stray dogs are attacking people near the school This is urgent.,OFF005,High,1
+CMP0051,This is affecting many families. Garbage vehicle not coming to our street anymore This is urgent.,OFF002,Medium,6
+CMP0052,This problem exists since many months. Auto drivers are overcharging passengers Please resolve soon.,OFF007,Low,12
+CMP0053,Kindly take immediate action. Manhole cover missing on the street is dangerous,OFF001,High,1
+CMP0054,Please look into this urgently. Bus number 45 has not been running for two weeks,OFF007,Medium,8
+CMP0055,Kindly take immediate action. Fly infestation near meat market area,OFF006,High,1
+CMP0056,Please look into this urgently. Bus number 45 has not been running for two weeks,OFF007,Medium,8
+CMP0057,This is affecting many families. Bus number 45 has not been running for two weeks Please resolve soon.,OFF007,Medium,7
+CMP0058,Kindly take immediate action. Encroachment on public footpath by shops Please resolve soon.,OFF005,Medium,9
+CMP0059,We have complained before but no action. Water is coming brown and smelly from taps,OFF004,High,2
+CMP0060,Kindly take immediate action. Stray dogs are attacking people near the school Many complaints already filed.,OFF005,High,1
+CMP0061,Water supply is disrupted in sector 5 since 3 days Many complaints already filed.,OFF004,High,1
+CMP0062,This is affecting many families. There is a dengue outbreak in our ward Please resolve soon.,OFF006,High,3
+CMP0063,Kindly take immediate action. Power line hanging dangerously low over road Please resolve soon.,OFF003,High,3
+CMP0064,This is affecting many families. Water supply is disrupted in sector 5 since 3 days,OFF004,High,1
+CMP0065,We have complained before but no action. Dead animals lying on road not removed,OFF002,High,2
+CMP0066,Fly infestation near meat market area Many complaints already filed.,OFF006,High,4
+CMP0067,This is affecting many families. Power cuts lasting 8 hours daily in our area This is urgent.,OFF003,High,3
+CMP0068,This problem exists since many months. Water supply is disrupted in sector 5 since 3 days Many complaints already filed.,OFF004,High,1
+CMP0069,Please look into this urgently. Hospital waste being dumped in open area Residents are very unhappy.,OFF006,High,3
+CMP0070,This problem exists since many months. Garbage vehicle not coming to our street anymore Please resolve soon.,OFF002,Medium,3
+CMP0071,Please look into this urgently. Garbage vehicle not coming to our street anymore Please resolve soon.,OFF002,Medium,3
+CMP0072,Please look into this urgently. Potholes on highway causing vehicle damage Please resolve soon.,OFF001,High,6
+CMP0073,This problem exists since many months. Illegal dumping of industrial waste in the river Please resolve soon.,OFF008,High,1
+CMP0074,Please look into this urgently. No electricity for 2 days after last night storm,OFF003,High,3
+CMP0075,This is affecting many families. Transformer in our locality is making sparks This is urgent.,OFF003,High,1
+CMP0076,Kindly take immediate action. Transformer in our locality is making sparks Please resolve soon.,OFF003,High,2
+CMP0077,We have complained before but no action. Construction dust causing breathing problems Residents are very unhappy.,OFF008,High,2
+CMP0078,This problem exists since many months. Construction dust causing breathing problems Many complaints already filed.,OFF008,High,2
+CMP0079,This problem exists since many months. Stray dogs are attacking people near the school Please resolve soon.,OFF005,High,2
+CMP0080,We have complained before but no action. The footpath near market is broken and dangerous Residents are very unhappy.,OFF001,Medium,7
+CMP0081,We have complained before but no action. Electricity bill is much higher than usage Please resolve soon.,OFF003,Low,16
+CMP0082,Encroachment on public footpath by shops This is urgent.,OFF005,Medium,6
+CMP0083,We have complained before but no action. Expired medicines found at government hospital Residents are very unhappy.,OFF006,High,2
+CMP0084,Please look into this urgently. Transformer in our locality is making sparks Residents are very unhappy.,OFF003,High,1
+CMP0085,We have complained before but no action. Public toilet near bus stand is extremely dirty Many complaints already filed.,OFF002,Medium,3
+CMP0086,This is affecting many families. Traffic signals not working at main crossing This is urgent.,OFF007,High,4
+CMP0087,Please look into this urgently. Transformer in our locality is making sparks Residents are very unhappy.,OFF003,High,3
+CMP0088,Please look into this urgently. Public toilet near bus stand is extremely dirty Residents are very unhappy.,OFF002,Medium,4
+CMP0089,The footpath near market is broken and dangerous This is urgent.,OFF001,Medium,7
+CMP0090,This problem exists since many months. Bus stand has no seating and no shelter,OFF007,Low,29
+CMP0091,Please look into this urgently. Illegal dumping of industrial waste in the river Please resolve soon.,OFF008,High,1
+CMP0092,This problem exists since many months. Electricity bill is much higher than usage Many complaints already filed.,OFF003,Low,14
+CMP0093,This is affecting many families. Fly infestation near meat market area Residents are very unhappy.,OFF006,High,3
+CMP0094,Please look into this urgently. Electricity bill is much higher than usage This is urgent.,OFF003,Low,14
+CMP0095,Manhole cover missing on the street is dangerous Residents are very unhappy.,OFF001,High,2
+CMP0096,Kindly take immediate action. Expired medicines found at government hospital Many complaints already filed.,OFF006,High,2
+CMP0097,This is affecting many families. Manhole cover missing on the street is dangerous Please resolve soon.,OFF001,High,3
+CMP0098,This is affecting many families. Streetlights on MG Road are not working for the past week This is urgent.,OFF003,Medium,7
+CMP0099,We have complained before but no action. Manhole cover missing on the street is dangerous Please resolve soon.,OFF001,High,1
+CMP0100,Please look into this urgently. Dead animals lying on road not removed,OFF002,High,1
+CMP0101,Kindly take immediate action. Noise pollution from nearby factory at night This is urgent.,OFF008,Medium,6
+CMP0102,This is affecting many families. Mosquito breeding in stagnant water near park Residents are very unhappy.,OFF006,Medium,4
+CMP0103,We have complained before but no action. Water tank on rooftop is cracked and leaking This is urgent.,OFF004,Medium,4
+CMP0104,We have complained before but no action. Public toilet near bus stand is extremely dirty Many complaints already filed.,OFF002,Medium,5
+CMP0105,We have complained before but no action. Encroachment on public footpath by shops Residents are very unhappy.,OFF005,Medium,6
+CMP0106,This is affecting many families. Transformer in our locality is making sparks Many complaints already filed.,OFF003,High,2
+CMP0107,Please look into this urgently. Garbage has not been collected from our colony for 10 days Many complaints already filed.,OFF002,High,4
+CMP0108,Trees fallen on road after storm blocking traffic This is urgent.,OFF001,High,3
+CMP0109,This problem exists since many months. Potholes on highway causing vehicle damage Residents are very unhappy.,OFF001,High,6
+CMP0110,This is affecting many families. Local train always delayed causing problems This is urgent.,OFF007,Medium,9
+CMP0111,Please look into this urgently. Fly infestation near meat market area Many complaints already filed.,OFF006,High,2
+CMP0112,Kindly take immediate action. Electricity bill is much higher than usage Residents are very unhappy.,OFF003,Low,15
+CMP0113,We have complained before but no action. No electricity for 2 days after last night storm Residents are very unhappy.,OFF003,High,3
+CMP0114,We have complained before but no action. Garbage vehicle not coming to our street anymore,OFF002,Medium,5
+CMP0115,Water tank on rooftop is cracked and leaking This is urgent.,OFF004,Medium,5
+CMP0116,Kindly take immediate action. Noise pollution from nearby factory at night,OFF008,Medium,5
+CMP0117,This problem exists since many months. No electricity for 2 days after last night storm This is urgent.,OFF003,High,4
+CMP0118,Please look into this urgently. Expired medicines found at government hospital This is urgent.,OFF006,High,3
+CMP0119,Kindly take immediate action. Auto drivers are overcharging passengers Many complaints already filed.,OFF007,Low,11
+CMP0120,Kindly take immediate action. Construction dust causing breathing problems,OFF008,High,3
+CMP0121,Kindly take immediate action. Garbage vehicle not coming to our street anymore Please resolve soon.,OFF002,Medium,3
+CMP0122,This problem exists since many months. Water meter is giving wrong readings Many complaints already filed.,OFF004,Low,15
+CMP0123,This is affecting many families. There is a dengue outbreak in our ward This is urgent.,OFF006,High,1
+CMP0124,This is affecting many families. Noise pollution from nearby factory at night Residents are very unhappy.,OFF008,Medium,4
+CMP0125,Kindly take immediate action. Manhole cover missing on the street is dangerous Many complaints already filed.,OFF001,High,1
+CMP0126,Kindly take immediate action. Construction dust causing breathing problems Many complaints already filed.,OFF008,High,3
+CMP0127,Kindly take immediate action. Dead animals lying on road not removed,OFF002,High,1
+CMP0128,Power cuts lasting 8 hours daily in our area Residents are very unhappy.,OFF003,High,2
+CMP0129,This is affecting many families. Fly infestation near meat market area Please resolve soon.,OFF006,High,4
+CMP0130,This problem exists since many months. Water supply is disrupted in sector 5 since 3 days Please resolve soon.,OFF004,High,1
+CMP0131,This is affecting many families. Construction dust causing breathing problems,OFF008,High,4
+CMP0132,This problem exists since many months. Bus stand has no seating and no shelter Many complaints already filed.,OFF007,Low,32
+CMP0133,Kindly take immediate action. Expired medicines found at government hospital Please resolve soon.,OFF006,High,4
+CMP0134,We have complained before but no action. Bus stand has no seating and no shelter Please resolve soon.,OFF007,Low,31
+CMP0135,Kindly take immediate action. Children are falling sick due to contaminated water Please resolve soon.,OFF004,High,2
+CMP0136,Please look into this urgently. Bus stand has no seating and no shelter This is urgent.,OFF007,Low,30
+CMP0137,We have complained before but no action. Public toilet near bus stand is extremely dirty This is urgent.,OFF002,Medium,2
+CMP0138,This is affecting many families. The footpath near market is broken and dangerous Please resolve soon.,OFF001,Medium,9
+CMP0139,Power cuts lasting 8 hours daily in our area Please resolve soon.,OFF003,High,2
+CMP0140,Kindly take immediate action. Theft of manhole covers reported multiple times This is urgent.,OFF005,Medium,7
+CMP0141,Please look into this urgently. Theft of manhole covers reported multiple times Please resolve soon.,OFF005,Medium,7
+CMP0142,This problem exists since many months. Dead animals lying on road not removed Residents are very unhappy.,OFF002,High,3
+CMP0143,Please look into this urgently. Drainage blocked causing flooding in low areas This is urgent.,OFF001,High,3
+CMP0144,Kindly take immediate action. Dead animals lying on road not removed Many complaints already filed.,OFF002,High,1
+CMP0145,This is affecting many families. Power line hanging dangerously low over road This is urgent.,OFF003,High,3
+CMP0146,Please look into this urgently. Power line hanging dangerously low over road,OFF003,High,2
+CMP0147,Water tank on rooftop is cracked and leaking Please resolve soon.,OFF004,Medium,7
+CMP0148,This problem exists since many months. The footpath near market is broken and dangerous Many complaints already filed.,OFF001,Medium,6
+CMP0149,This problem exists since many months. Water tank on rooftop is cracked and leaking Many complaints already filed.,OFF004,Medium,4
+CMP0150,There is a dengue outbreak in our ward,OFF006,High,1
+CMP0151,This is affecting many families. Construction dust causing breathing problems Residents are very unhappy.,OFF008,High,4
+CMP0152,We have complained before but no action. Dead animals lying on road not removed Please resolve soon.,OFF002,High,3
+CMP0153,We have complained before but no action. Hospital waste being dumped in open area,OFF006,High,2
+CMP0154,We have complained before but no action. Theft of manhole covers reported multiple times Residents are very unhappy.,OFF005,Medium,7
+CMP0155,Streetlights on MG Road are not working for the past week Many complaints already filed.,OFF003,Medium,4
+CMP0156,This is affecting many families. Trees fallen on road after storm blocking traffic Residents are very unhappy.,OFF001,High,1
+CMP0157,This is affecting many families. Streetlights on MG Road are not working for the past week Please resolve soon.,OFF003,Medium,4
+CMP0158,This is affecting many families. No electricity for 2 days after last night storm Please resolve soon.,OFF003,High,2
+CMP0159,Drainage blocked causing flooding in low areas Residents are very unhappy.,OFF001,High,2
+CMP0160,Construction dust causing breathing problems This is urgent.,OFF008,High,4
+CMP0161,This problem exists since many months. Sewage water overflowing on the main road Many complaints already filed.,OFF002,High,1
+CMP0162,We have complained before but no action. Sewage water overflowing on the main road Residents are very unhappy.,OFF002,High,1
+CMP0163,This problem exists since many months. Suspicious activity near abandoned building,OFF005,Medium,5
+CMP0164,Please look into this urgently. Noise pollution from nearby factory at night Many complaints already filed.,OFF008,Medium,5
+CMP0165,Bus number 45 has not been running for two weeks This is urgent.,OFF007,Medium,6
+CMP0166,Please look into this urgently. Local train always delayed causing problems This is urgent.,OFF007,Medium,12
+CMP0167,Please look into this urgently. Electricity bill is much higher than usage Many complaints already filed.,OFF003,Low,15
+CMP0168,Kindly take immediate action. The road in front of my house has a large pothole causing accidents,OFF001,High,2
+CMP0169,We have complained before but no action. Fly infestation near meat market area,OFF006,High,2
+CMP0170,This is affecting many families. Fly infestation near meat market area Many complaints already filed.,OFF006,High,3
+CMP0171,This problem exists since many months. No electricity for 2 days after last night storm,OFF003,High,4
+CMP0172,Fly infestation near meat market area Many complaints already filed.,OFF006,High,3
+CMP0173,This is affecting many families. Hospital waste being dumped in open area Residents are very unhappy.,OFF006,High,2
+CMP0174,This is affecting many families. Bus stand has no seating and no shelter,OFF007,Low,32
+CMP0175,Please look into this urgently. Traffic signals not working at main crossing,OFF007,High,3
+CMP0176,Kindly take immediate action. Water is coming brown and smelly from taps Please resolve soon.,OFF004,High,3
+CMP0177,We have complained before but no action. Transformer in our locality is making sparks This is urgent.,OFF003,High,2
+CMP0178,Please look into this urgently. Expired medicines found at government hospital Many complaints already filed.,OFF006,High,2
+CMP0179,This is affecting many families. There is a dengue outbreak in our ward,OFF006,High,3
+CMP0180,This is affecting many families. Expired medicines found at government hospital,OFF006,High,4
+CMP0181,Please look into this urgently. Bus stand has no seating and no shelter Residents are very unhappy.,OFF007,Low,31
+CMP0182,Kindly take immediate action. Mosquito breeding in stagnant water near park Please resolve soon.,OFF006,Medium,5
+CMP0183,We have complained before but no action. Smoke from unauthorized factory affecting lungs,OFF008,High,3
+CMP0184,Fly infestation near meat market area Many complaints already filed.,OFF006,High,3
+CMP0185,Trees fallen on road after storm blocking traffic,OFF001,High,2
+CMP0186,We have complained before but no action. Suspicious activity near abandoned building Please resolve soon.,OFF005,Medium,2
+CMP0187,We have complained before but no action. Noise pollution from nearby factory at night Residents are very unhappy.,OFF008,Medium,5
+CMP0188,This is affecting many families. Noise pollution from nearby factory at night,OFF008,Medium,6
+CMP0189,This problem exists since many months. Smoke from unauthorized factory affecting lungs Many complaints already filed.,OFF008,High,3
+CMP0190,This is affecting many families. Bus number 45 has not been running for two weeks This is urgent.,OFF007,Medium,7
+CMP0191,This is affecting many families. Electricity bill is much higher than usage This is urgent.,OFF003,Low,13
+CMP0192,This is affecting many families. Encroachment on public footpath by shops This is urgent.,OFF005,Medium,6
+CMP0193,This problem exists since many months. Water supply is disrupted in sector 5 since 3 days This is urgent.,OFF004,High,2
+CMP0194,Please look into this urgently. Power line hanging dangerously low over road Residents are very unhappy.,OFF003,High,2
+CMP0195,Kindly take immediate action. Drainage blocked causing flooding in low areas,OFF001,High,3
+CMP0196,Please look into this urgently. Water is coming brown and smelly from taps This is urgent.,OFF004,High,4
+CMP0197,Please look into this urgently. Illegal dumping of industrial waste in the river,OFF008,High,4
+CMP0198,This problem exists since many months. Stray dogs are attacking people near the school Residents are very unhappy.,OFF005,High,1
+CMP0199,This problem exists since many months. Power cuts lasting 8 hours daily in our area This is urgent.,OFF003,High,2
+CMP0200,Please look into this urgently. Manhole cover missing on the street is dangerous Many complaints already filed.,OFF001,High,3
+CMP0201,This problem exists since many months. Potholes on highway causing vehicle damage Many complaints already filed.,OFF001,High,4
+CMP0202,Kindly take immediate action. Children are falling sick due to contaminated water,OFF004,High,3
+CMP0203,This problem exists since many months. Suspicious activity near abandoned building,OFF005,Medium,4
+CMP0204,This problem exists since many months. Local train always delayed causing problems Residents are very unhappy.,OFF007,Medium,9
+CMP0205,Auto drivers are overcharging passengers Please resolve soon.,OFF007,Low,11
+CMP0206,This is affecting many families. There is a dengue outbreak in our ward Please resolve soon.,OFF006,High,1
+CMP0207,Please look into this urgently. Expired medicines found at government hospital Please resolve soon.,OFF006,High,1
+CMP0208,Kindly take immediate action. Theft of manhole covers reported multiple times Many complaints already filed.,OFF005,Medium,7
+CMP0209,Please look into this urgently. Water meter is giving wrong readings Please resolve soon.,OFF004,Low,15
+CMP0210,Water meter is giving wrong readings,OFF004,Low,13
+CMP0211,We have complained before but no action. Mosquito breeding in stagnant water near park Many complaints already filed.,OFF006,Medium,4
+CMP0212,Please look into this urgently. Fly infestation near meat market area Many complaints already filed.,OFF006,High,2
+CMP0213,We have complained before but no action. Power cuts lasting 8 hours daily in our area Please resolve soon.,OFF003,High,2
+CMP0214,This is affecting many families. Water supply is disrupted in sector 5 since 3 days This is urgent.,OFF004,High,3
+CMP0215,Please look into this urgently. Bus stand has no seating and no shelter,OFF007,Low,31
+CMP0216,We have complained before but no action. Water tank on rooftop is cracked and leaking Many complaints already filed.,OFF004,Medium,7
+CMP0217,Please look into this urgently. Bus stand has no seating and no shelter Many complaints already filed.,OFF007,Low,29
+CMP0218,Fly infestation near meat market area This is urgent.,OFF006,High,3
+CMP0219,Please look into this urgently. Streetlights on MG Road are not working for the past week Please resolve soon.,OFF003,Medium,4
+CMP0220,This problem exists since many months. Public toilet near bus stand is extremely dirty Residents are very unhappy.,OFF002,Medium,3
+CMP0221,This problem exists since many months. Drainage blocked causing flooding in low areas,OFF001,High,3
+CMP0222,This problem exists since many months. Water is coming brown and smelly from taps,OFF004,High,4
+CMP0223,Kindly take immediate action. There is a dengue outbreak in our ward This is urgent.,OFF006,High,3
+CMP0224,We have complained before but no action. Traffic signals not working at main crossing Residents are very unhappy.,OFF007,High,2
+CMP0225,Kindly take immediate action. Traffic signals not working at main crossing,OFF007,High,3
+CMP0226,This problem exists since many months. Water tank on rooftop is cracked and leaking Residents are very unhappy.,OFF004,Medium,7
+CMP0227,We have complained before but no action. There is a dengue outbreak in our ward This is urgent.,OFF006,High,2
+CMP0228,Kindly take immediate action. Illegal dumping of industrial waste in the river Many complaints already filed.,OFF008,High,1
+CMP0229,Kindly take immediate action. Encroachment on public footpath by shops,OFF005,Medium,6
+CMP0230,This problem exists since many months. Noise pollution from nearby factory at night This is urgent.,OFF008,Medium,7
+CMP0231,Please look into this urgently. Bus stand has no seating and no shelter Please resolve soon.,OFF007,Low,31
+CMP0232,This is affecting many families. Expired medicines found at government hospital This is urgent.,OFF006,High,4
+CMP0233,Please look into this urgently. Power line hanging dangerously low over road Residents are very unhappy.,OFF003,High,1
+CMP0234,We have complained before but no action. Sewage water overflowing on the main road Many complaints already filed.,OFF002,High,1
+CMP0235,Kindly take immediate action. Expired medicines found at government hospital Residents are very unhappy.,OFF006,High,2
+CMP0236,Kindly take immediate action. Illegal dumping of industrial waste in the river Residents are very unhappy.,OFF008,High,2
+CMP0237,Power line hanging dangerously low over road This is urgent.,OFF003,High,2
+CMP0238,Kindly take immediate action. Theft of manhole covers reported multiple times,OFF005,Medium,5
+CMP0239,This problem exists since many months. Construction dust causing breathing problems Please resolve soon.,OFF008,High,5
+CMP0240,This problem exists since many months. Noise pollution from nearby factory at night Many complaints already filed.,OFF008,Medium,5
+CMP0241,We have complained before but no action. Stray dogs are attacking people near the school,OFF005,High,2
+CMP0242,We have complained before but no action. Garbage vehicle not coming to our street anymore Residents are very unhappy.,OFF002,Medium,5
+CMP0243,This problem exists since many months. Suspicious activity near abandoned building Many complaints already filed.,OFF005,Medium,5
+CMP0244,Kindly take immediate action. Power cuts lasting 8 hours daily in our area Many complaints already filed.,OFF003,High,5
+CMP0245,We have complained before but no action. Trees fallen on road after storm blocking traffic Many complaints already filed.,OFF001,High,3
+CMP0246,We have complained before but no action. Construction dust causing breathing problems Please resolve soon.,OFF008,High,3
+CMP0247,Kindly take immediate action. Local train always delayed causing problems Please resolve soon.,OFF007,Medium,12
+CMP0248,We have complained before but no action. Garbage has not been collected from our colony for 10 days,OFF002,High,4
+CMP0249,Dead animals lying on road not removed Please resolve soon.,OFF002,High,3
+CMP0250,This is affecting many families. Garbage has not been collected from our colony for 10 days Many complaints already filed.,OFF002,High,3
+CMP0251,Kindly take immediate action. Bus number 45 has not been running for two weeks Residents are very unhappy.,OFF007,Medium,9
+CMP0252,The road in front of my house has a large pothole causing accidents Please resolve soon.,OFF001,High,5
+CMP0253,Please look into this urgently. Power cuts lasting 8 hours daily in our area,OFF003,High,4
+CMP0254,This problem exists since many months. Traffic signals not working at main crossing,OFF007,High,1
+CMP0255,Traffic signals not working at main crossing Many complaints already filed.,OFF007,High,4
+CMP0256,Hospital waste being dumped in open area,OFF006,High,1
+CMP0257,Please look into this urgently. No electricity for 2 days after last night storm Please resolve soon.,OFF003,High,3
+CMP0258,Mosquito breeding in stagnant water near park Residents are very unhappy.,OFF006,Medium,6
+CMP0259,Bus number 45 has not been running for two weeks Residents are very unhappy.,OFF007,Medium,9
+CMP0260,Sewage water overflowing on the main road This is urgent.,OFF002,High,1
+CMP0261,We have complained before but no action. Garbage has not been collected from our colony for 10 days Residents are very unhappy.,OFF002,High,3
+CMP0262,We have complained before but no action. Trees fallen on road after storm blocking traffic,OFF001,High,1
+CMP0263,This problem exists since many months. Manhole cover missing on the street is dangerous,OFF001,High,1
+CMP0264,This is affecting many families. Sewage water overflowing on the main road Residents are very unhappy.,OFF002,High,4
+CMP0265,No electricity for 2 days after last night storm Please resolve soon.,OFF003,High,4
+CMP0266,This is affecting many families. Smoke from unauthorized factory affecting lungs Please resolve soon.,OFF008,High,4
+CMP0267,Kindly take immediate action. Transformer in our locality is making sparks This is urgent.,OFF003,High,1
+CMP0268,We have complained before but no action. Construction dust causing breathing problems Many complaints already filed.,OFF008,High,3
+CMP0269,Kindly take immediate action. Stray dogs are attacking people near the school This is urgent.,OFF005,High,2
+CMP0270,Fly infestation near meat market area This is urgent.,OFF006,High,4
+CMP0271,This is affecting many families. Suspicious activity near abandoned building,OFF005,Medium,5
+CMP0272,This is affecting many families. Bus number 45 has not been running for two weeks,OFF007,Medium,8
+CMP0273,We have complained before but no action. Local train always delayed causing problems This is urgent.,OFF007,Medium,9
+CMP0274,We have complained before but no action. Water tank on rooftop is cracked and leaking Residents are very unhappy.,OFF004,Medium,4
+CMP0275,Potholes on highway causing vehicle damage,OFF001,High,5
+CMP0276,This problem exists since many months. Mosquito breeding in stagnant water near park This is urgent.,OFF006,Medium,4
+CMP0277,This problem exists since many months. Noise pollution from nearby factory at night This is urgent.,OFF008,Medium,5
+CMP0278,Bus number 45 has not been running for two weeks Residents are very unhappy.,OFF007,Medium,8
+CMP0279,Please look into this urgently. Bus stand has no seating and no shelter Many complaints already filed.,OFF007,Low,31
+CMP0280,Please look into this urgently. The footpath near market is broken and dangerous This is urgent.,OFF001,Medium,8
+CMP0281,This is affecting many families. Theft of manhole covers reported multiple times Please resolve soon.,OFF005,Medium,5
+CMP0282,We have complained before but no action. Encroachment on public footpath by shops Many complaints already filed.,OFF005,Medium,8
+CMP0283,We have complained before but no action. Sewage water overflowing on the main road,OFF002,High,3
+CMP0284,Please look into this urgently. Traffic signals not working at main crossing,OFF007,High,1
+CMP0285,This is affecting many families. Power cuts lasting 8 hours daily in our area,OFF003,High,4
+CMP0286,Kindly take immediate action. There is a dengue outbreak in our ward Residents are very unhappy.,OFF006,High,2
+CMP0287,Please look into this urgently. Encroachment on public footpath by shops,OFF005,Medium,8
+CMP0288,This problem exists since many months. Transformer in our locality is making sparks,OFF003,High,2
+CMP0289,Bus number 45 has not been running for two weeks Please resolve soon.,OFF007,Medium,9
+CMP0290,This problem exists since many months. Streetlights on MG Road are not working for the past week Many complaints already filed.,OFF003,Medium,6
+CMP0291,This is affecting many families. No electricity for 2 days after last night storm Residents are very unhappy.,OFF003,High,4
+CMP0292,Suspicious activity near abandoned building,OFF005,Medium,2
+CMP0293,Please look into this urgently. The footpath near market is broken and dangerous Residents are very unhappy.,OFF001,Medium,8
+CMP0294,Please look into this urgently. Power line hanging dangerously low over road Residents are very unhappy.,OFF003,High,1
+CMP0295,This is affecting many families. Encroachment on public footpath by shops,OFF005,Medium,9
+CMP0296,Electricity bill is much higher than usage Many complaints already filed.,OFF003,Low,16
+CMP0297,Smoke from unauthorized factory affecting lungs Please resolve soon.,OFF008,High,4
+CMP0298,Kindly take immediate action. Bus number 45 has not been running for two weeks Many complaints already filed.,OFF007,Medium,9
+CMP0299,Please look into this urgently. Public toilet near bus stand is extremely dirty This is urgent.,OFF002,Medium,3
+CMP0300,Kindly take immediate action. Bus stand has no seating and no shelter Please resolve soon.,OFF007,Low,31
+CMP0301,Bus number 45 has not been running for two weeks This is urgent.,OFF007,Medium,8
+CMP0302,Kindly take immediate action. Water supply is disrupted in sector 5 since 3 days This is urgent.,OFF004,High,2
+CMP0303,Kindly take immediate action. Illegal dumping of industrial waste in the river Residents are very unhappy.,OFF008,High,2
+CMP0304,Please look into this urgently. Potholes on highway causing vehicle damage Residents are very unhappy.,OFF001,High,5
+CMP0305,This is affecting many families. Manhole cover missing on the street is dangerous Many complaints already filed.,OFF001,High,1
+CMP0306,This problem exists since many months. Stray dogs are attacking people near the school Please resolve soon.,OFF005,High,1
+CMP0307,We have complained before but no action. Mosquito breeding in stagnant water near park Please resolve soon.,OFF006,Medium,3
+CMP0308,This is affecting many families. Public toilet near bus stand is extremely dirty Please resolve soon.,OFF002,Medium,4
+CMP0309,Please look into this urgently. Water is coming brown and smelly from taps Residents are very unhappy.,OFF004,High,2
+CMP0310,We have complained before but no action. The road in front of my house has a large pothole causing accidents Please resolve soon.,OFF001,High,4
+CMP0311,This is affecting many families. Streetlights on MG Road are not working for the past week This is urgent.,OFF003,Medium,4
+CMP0312,The footpath near market is broken and dangerous,OFF001,Medium,6
+CMP0313,Kindly take immediate action. Stray dogs are attacking people near the school,OFF005,High,2
+CMP0314,This problem exists since many months. Garbage vehicle not coming to our street anymore Residents are very unhappy.,OFF002,Medium,6
+CMP0315,This is affecting many families. Garbage vehicle not coming to our street anymore Many complaints already filed.,OFF002,Medium,3
+CMP0316,We have complained before but no action. Children are falling sick due to contaminated water,OFF004,High,1
+CMP0317,Kindly take immediate action. Water supply is disrupted in sector 5 since 3 days,OFF004,High,4
+CMP0318,Kindly take immediate action. Bus number 45 has not been running for two weeks,OFF007,Medium,6
+CMP0319,We have complained before but no action. There is a dengue outbreak in our ward Many complaints already filed.,OFF006,High,1
+CMP0320,This is affecting many families. Stray dogs are attacking people near the school This is urgent.,OFF005,High,2
+CMP0321,This problem exists since many months. Dead animals lying on road not removed Many complaints already filed.,OFF002,High,2
+CMP0322,This problem exists since many months. Construction dust causing breathing problems Many complaints already filed.,OFF008,High,5
+CMP0323,Bus number 45 has not been running for two weeks Residents are very unhappy.,OFF007,Medium,7
+CMP0324,Kindly take immediate action. Fly infestation near meat market area Please resolve soon.,OFF006,High,4
+CMP0325,Kindly take immediate action. Traffic signals not working at main crossing,OFF007,High,4
+CMP0326,We have complained before but no action. Bus number 45 has not been running for two weeks,OFF007,Medium,8
+CMP0327,We have complained before but no action. Transformer in our locality is making sparks Please resolve soon.,OFF003,High,3
+CMP0328,Please look into this urgently. Stray dogs are attacking people near the school Residents are very unhappy.,OFF005,High,1
+CMP0329,Please look into this urgently. Fly infestation near meat market area This is urgent.,OFF006,High,2
+CMP0330,Please look into this urgently. Expired medicines found at government hospital Many complaints already filed.,OFF006,High,3
+CMP0331,Kindly take immediate action. Illegal dumping of industrial waste in the river This is urgent.,OFF008,High,4
+CMP0332,We have complained before but no action. Water supply is disrupted in sector 5 since 3 days Many complaints already filed.,OFF004,High,3
+CMP0333,Please look into this urgently. Trees fallen on road after storm blocking traffic Many complaints already filed.,OFF001,High,1
+CMP0334,Power cuts lasting 8 hours daily in our area,OFF003,High,3
+CMP0335,We have complained before but no action. Bus number 45 has not been running for two weeks Many complaints already filed.,OFF007,Medium,8
+CMP0336,We have complained before but no action. Illegal dumping of industrial waste in the river Many complaints already filed.,OFF008,High,2
+CMP0337,This problem exists since many months. Fly infestation near meat market area Many complaints already filed.,OFF006,High,1
+CMP0338,Potholes on highway causing vehicle damage This is urgent.,OFF001,High,3
+CMP0339,We have complained before but no action. Water is coming brown and smelly from taps This is urgent.,OFF004,High,3
+CMP0340,Please look into this urgently. Trees fallen on road after storm blocking traffic Please resolve soon.,OFF001,High,1
+CMP0341,Local train always delayed causing problems,OFF007,Medium,9
+CMP0342,Power cuts lasting 8 hours daily in our area Residents are very unhappy.,OFF003,High,2
+CMP0343,This is affecting many families. Children are falling sick due to contaminated water,OFF004,High,3
+CMP0344,We have complained before but no action. Construction dust causing breathing problems Please resolve soon.,OFF008,High,4
+CMP0345,Suspicious activity near abandoned building This is urgent.,OFF005,Medium,2
+CMP0346,This is affecting many families. Water supply is disrupted in sector 5 since 3 days Please resolve soon.,OFF004,High,1
+CMP0347,We have complained before but no action. There is a dengue outbreak in our ward,OFF006,High,3
+CMP0348,This problem exists since many months. Power line hanging dangerously low over road,OFF003,High,3
+CMP0349,This is affecting many families. Public toilet near bus stand is extremely dirty Many complaints already filed.,OFF002,Medium,2
+CMP0350,Kindly take immediate action. Trees fallen on road after storm blocking traffic Residents are very unhappy.,OFF001,High,2
+CMP0351,Kindly take immediate action. Smoke from unauthorized factory affecting lungs Many complaints already filed.,OFF008,High,3
+CMP0352,This is affecting many families. Garbage has not been collected from our colony for 10 days,OFF002,High,1
+CMP0353,This is affecting many families. The road in front of my house has a large pothole causing accidents This is urgent.,OFF001,High,3
+CMP0354,We have complained before but no action. The footpath near market is broken and dangerous This is urgent.,OFF001,Medium,8
+CMP0355,Please look into this urgently. Illegal dumping of industrial waste in the river,OFF008,High,4
+CMP0356,This is affecting many families. Water is coming brown and smelly from taps,OFF004,High,2
+CMP0357,This problem exists since many months. Garbage vehicle not coming to our street anymore This is urgent.,OFF002,Medium,3
+CMP0358,Water tank on rooftop is cracked and leaking Residents are very unhappy.,OFF004,Medium,7
+CMP0359,Kindly take immediate action. Streetlights on MG Road are not working for the past week Residents are very unhappy.,OFF003,Medium,6
+CMP0360,Kindly take immediate action. Local train always delayed causing problems Many complaints already filed.,OFF007,Medium,12
+CMP0361,We have complained before but no action. Theft of manhole covers reported multiple times Residents are very unhappy.,OFF005,Medium,7
+CMP0362,We have complained before but no action. Streetlights on MG Road are not working for the past week Please resolve soon.,OFF003,Medium,7
+CMP0363,Please look into this urgently. Electricity bill is much higher than usage,OFF003,Low,13
+CMP0364,Kindly take immediate action. Manhole cover missing on the street is dangerous Many complaints already filed.,OFF001,High,3
+CMP0365,Please look into this urgently. Children are falling sick due to contaminated water,OFF004,High,2
+CMP0366,This is affecting many families. Traffic signals not working at main crossing This is urgent.,OFF007,High,2
+CMP0367,This problem exists since many months. Stray dogs are attacking people near the school Residents are very unhappy.,OFF005,High,1
+CMP0368,We have complained before but no action. Trees fallen on road after storm blocking traffic Please resolve soon.,OFF001,High,1
+CMP0369,This is affecting many families. Bus number 45 has not been running for two weeks This is urgent.,OFF007,Medium,7
+CMP0370,This problem exists since many months. Water is coming brown and smelly from taps Please resolve soon.,OFF004,High,1
+CMP0371,Water is coming brown and smelly from taps,OFF004,High,4
+CMP0372,This problem exists since many months. Local train always delayed causing problems,OFF007,Medium,11
+CMP0373,This is affecting many families. Hospital waste being dumped in open area,OFF006,High,1
+CMP0374,Kindly take immediate action. Drainage blocked causing flooding in low areas This is urgent.,OFF001,High,3
+CMP0375,Please look into this urgently. Smoke from unauthorized factory affecting lungs This is urgent.,OFF008,High,1
+CMP0376,Kindly take immediate action. Suspicious activity near abandoned building,OFF005,Medium,2
+CMP0377,We have complained before but no action. Water supply is disrupted in sector 5 since 3 days This is urgent.,OFF004,High,1
+CMP0378,This problem exists since many months. There is a dengue outbreak in our ward Many complaints already filed.,OFF006,High,3
+CMP0379,This problem exists since many months. Construction dust causing breathing problems Many complaints already filed.,OFF008,High,2
+CMP0380,This problem exists since many months. Bus stand has no seating and no shelter Please resolve soon.,OFF007,Low,31
+CMP0381,Kindly take immediate action. Potholes on highway causing vehicle damage Many complaints already filed.,OFF001,High,4
+CMP0382,Kindly take immediate action. Water supply is disrupted in sector 5 since 3 days Residents are very unhappy.,OFF004,High,3
+CMP0383,This problem exists since many months. There is a dengue outbreak in our ward Please resolve soon.,OFF006,High,1
+CMP0384,Manhole cover missing on the street is dangerous,OFF001,High,3
+CMP0385,This problem exists since many months. Children are falling sick due to contaminated water Many complaints already filed.,OFF004,High,1
+CMP0386,We have complained before but no action. Electricity bill is much higher than usage This is urgent.,OFF003,Low,16
+CMP0387,We have complained before but no action. Theft of manhole covers reported multiple times Many complaints already filed.,OFF005,Medium,4
+CMP0388,Please look into this urgently. Traffic signals not working at main crossing This is urgent.,OFF007,High,1
+CMP0389,Expired medicines found at government hospital,OFF006,High,3
+CMP0390,Transformer in our locality is making sparks Many complaints already filed.,OFF003,High,1
+CMP0391,Please look into this urgently. Traffic signals not working at main crossing Many complaints already filed.,OFF007,High,2
+CMP0392,We have complained before but no action. Trees fallen on road after storm blocking traffic,OFF001,High,1
+CMP0393,Potholes on highway causing vehicle damage Residents are very unhappy.,OFF001,High,5
+CMP0394,Kindly take immediate action. Expired medicines found at government hospital This is urgent.,OFF006,High,2
+CMP0395,Please look into this urgently. Children are falling sick due to contaminated water,OFF004,High,2
+CMP0396,We have complained before but no action. Streetlights on MG Road are not working for the past week This is urgent.,OFF003,Medium,5
+CMP0397,We have complained before but no action. Auto drivers are overcharging passengers,OFF007,Low,10
+CMP0398,This is affecting many families. Mosquito breeding in stagnant water near park Please resolve soon.,OFF006,Medium,3
+CMP0399,Please look into this urgently. Water meter is giving wrong readings Many complaints already filed.,OFF004,Low,13
+CMP0400,This problem exists since many months. Traffic signals not working at main crossing Please resolve soon.,OFF007,High,4

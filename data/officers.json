@@ -1,0 +1,42 @@
+[
+  {
+    "id": "OFF001",
+    "name": "Rajesh Kumar",
+    "department": "Infrastructure"
+  },
+  {
+    "id": "OFF002",
+    "name": "Priya Sharma",
+    "department": "Sanitation"
+  },
+  {
+    "id": "OFF003",
+    "name": "Anil Patro",
+    "department": "Electricity"
+  },
+  {
+    "id": "OFF004",
+    "name": "Sneha Mishra",
+    "department": "Water Supply"
+  },
+  {
+    "id": "OFF005",
+    "name": "Deepak Nayak",
+    "department": "Public Safety"
+  },
+  {
+    "id": "OFF006",
+    "name": "Kavita Das",
+    "department": "Health"
+  },
+  {
+    "id": "OFF007",
+    "name": "Suresh Behera",
+    "department": "Transport"
+  },
+  {
+    "id": "OFF008",
+    "name": "Meena Rath",
+    "department": "Environment"
+  }
+]

@@ -1,0 +1,8 @@
+flask
+scikit-learn
+numpy
+# ---- multimodal (optional but recommended) ----
+SpeechRecognition      # audio transcription
+# pocketsphinx         # offline ASR (heavy; install separately if needed)
+moviepy                # video → audio extraction
+deep-translator        # multilingual support (uses Google Translate API)
