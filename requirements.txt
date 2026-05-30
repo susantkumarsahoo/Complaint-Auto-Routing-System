@@ -1,6 +1,7 @@
 flask
 scikit-learn
 numpy
+pandas
 # ---- multimodal (optional but recommended) ----
 SpeechRecognition      # audio transcription
 # pocketsphinx         # offline ASR (heavy; install separately if needed)

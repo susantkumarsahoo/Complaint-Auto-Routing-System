@@ -295,6 +295,7 @@ Core dependencies:
 flask
 scikit-learn
 numpy
+pandas
 ```
 
 Optional:
